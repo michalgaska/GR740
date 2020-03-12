@@ -1,0 +1,52 @@
+Added Pin To Net: NetName=ETH_RXCLK Pin=J14-1
+Added Pin To Net: NetName=GND Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J14-3
+Added Pin To Net: NetName=SPI_MISO Pin=J14-4
+Added Pin To Net: NetName=ETH_RX0 Pin=J14-5
+Added Pin To Net: NetName=SPI_SCK Pin=J14-6
+Added Pin To Net: NetName=ETH_RX1 Pin=J14-7
+Added Pin To Net: NetName=SPI_MOSI Pin=J14-8
+Added Pin To Net: NetName=ETH_RX2 Pin=J14-9
+Added Pin To Net: NetName=SPI_SEL Pin=J14-10
+Added Pin To Net: NetName=ETH_RX3 Pin=J14-11
+Added Pin To Net: NetName=GND Pin=J14-12
+Added Pin To Net: NetName=ETH_RX4 Pin=J14-13
+Added Pin To Net: NetName=ETH_RX5 Pin=J14-15
+Added Pin To Net: NetName=PCI_HOSTN Pin=J14-16
+Added Pin To Net: NetName=ETH_RX6 Pin=J14-17
+Added Pin To Net: NetName=ETH_RX7 Pin=J14-19
+Added Pin To Net: NetName=GND Pin=J14-21
+Added Pin To Net: NetName=ETH_RXDV Pin=J14-23
+Added Pin To Net: NetName=ETH_RXER Pin=J14-25
+Added Pin To Net: NetName=ETH_COL Pin=J14-27
+Added Pin To Net: NetName=ETH_CRS Pin=J14-29
+Added Pin To Net: NetName=GND Pin=J14-31
+Added Pin To Net: NetName=ETH_TXCLK Pin=J14-33
+Added Pin To Net: NetName=GND Pin=J14-35
+Added Pin To Net: NetName=ETH_TX0 Pin=J14-37
+Added Pin To Net: NetName=ETH_TX1 Pin=J14-39
+Added Pin To Net: NetName=GND Pin=J14-40
+Added Pin To Net: NetName=ETH_TX2 Pin=J14-41
+Added Pin To Net: NetName=ETH_TX3 Pin=J14-43
+Added Pin To Net: NetName=ETH_TX4 Pin=J14-45
+Added Pin To Net: NetName=GND Pin=J14-46
+Added Pin To Net: NetName=ETH_TX5 Pin=J14-47
+Added Pin To Net: NetName=ETH_TX6 Pin=J14-49
+Added Pin To Net: NetName=ETH_TX7 Pin=J14-51
+Added Pin To Net: NetName=GND Pin=J14-52
+Added Pin To Net: NetName=GND Pin=J14-53
+Added Pin To Net: NetName=ETH_TXEN Pin=J14-55
+Added Pin To Net: NetName=ETH_TXER Pin=J14-57
+Added Pin To Net: NetName=GND Pin=J14-58
+Added Pin To Net: NetName=ETH_MDC Pin=J14-59
+Added Pin To Net: NetName=ETH_MDIO Pin=J14-61
+Added Pin To Net: NetName=ETH_MDINT Pin=J14-63
+Added Pin To Net: NetName=GND Pin=J14-64
+Change Net Name : Old Net Name=USER_J14_42 New Net Name=CPtp08-DB_P
+Change Net Name : Old Net Name=USER_J14_44 New Net Name=CPtp08-DB_N
+Change Net Name : Old Net Name=USER_J14_48 New Net Name=CPtp08-DD_P
+Change Net Name : Old Net Name=USER_J14_50 New Net Name=CPtp08-DD_N
+Change Net Name : Old Net Name=USER_J14_54 New Net Name=CPtp08-DA_P
+Change Net Name : Old Net Name=USER_J14_56 New Net Name=CPtp08-DA_N
+Change Net Name : Old Net Name=USER_J14_60 New Net Name=CPtp08-DC_P
+Change Net Name : Old Net Name=USER_J14_62 New Net Name=CPtp08-DC_N

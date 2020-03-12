@@ -1,0 +1,51 @@
+Removed Member From Class: ClassName=SpW_01_out Member=CPtp05-DB_N
+Removed Member From Class: ClassName=SpW_01_out Member=CPtp05-DB_P
+Removed Member From Class: ClassName=SpW_01_out Member=CPtp05-DD_N
+Removed Member From Class: ClassName=SpW_01_out Member=CPtp05-DD_P
+Removed Member From Class: ClassName=SpW_02_out Member=CPtp06-DB_N
+Removed Member From Class: ClassName=SpW_02_out Member=CPtp06-DB_P
+Removed Member From Class: ClassName=SpW_02_out Member=CPtp06-DD_N
+Removed Member From Class: ClassName=SpW_02_out Member=CPtp06-DD_P
+Change Component Footprint: Designator=L4 Old Footprint=IND_VISHAY_IHLP5050FD-01 New Footprint=IND_LAIRD_MGV10043R3M-10
+Change component parameters: Designator = "L4"; Footprint = "IND_LAIRD_MGV10043R3M-10"; UniqueID = "\FWMEKQHK\MFPNPAUC\RCSWTIZD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "4.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "07.09.2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\IND_LAIRD_MGV10043R3M-10.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07.09.2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "LAIRD TECHNOLOGIES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MGV10043R3M-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "High Current & Low Profile SMD Power Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "IND_3.3UH_20%_LAIRD_MGV10043R3M-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0.0118R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3uH"; VariantName = "[No Variations]"
+Added Differential Pair: Name=CPtp01-DB
+Added Differential Pair: Name=CPtp01-DD
+Added Differential Pair: Name=CPtp02-DB
+Added Differential Pair: Name=CPtp02-DD
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp01-DB_N
+Added Member To Class: ClassName=SpW_01_out Member=Wire CPtp01-DB_N
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp01-DB_P
+Added Member To Class: ClassName=SpW_01_out Member=Wire CPtp01-DB_P
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp01-DD_N
+Added Member To Class: ClassName=SpW_01_out Member=Wire CPtp01-DD_N
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp01-DD_P
+Added Member To Class: ClassName=SpW_01_out Member=Wire CPtp01-DD_P
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp02-DB_N
+Added Member To Class: ClassName=SpW_02_out Member=Wire CPtp02-DB_N
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp02-DB_P
+Added Member To Class: ClassName=SpW_02_out Member=Wire CPtp02-DB_P
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp02-DD_N
+Added Member To Class: ClassName=SpW_02_out Member=Wire CPtp02-DD_N
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp02-DD_P
+Added Member To Class: ClassName=SpW_02_out Member=Wire CPtp02-DD_P

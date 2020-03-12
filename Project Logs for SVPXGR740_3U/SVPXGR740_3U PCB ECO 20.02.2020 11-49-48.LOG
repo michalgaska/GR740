@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=SDRAM Member=Wire MEM_CLK0
+Added Member To Class: ClassName=SDRAM Member=Wire MEM_CLK1
+Added Member To Class: ClassName=SDRAM Member=Wire MEM_CLK2
+Added Member To Class: ClassName=SDRAM Member=Wire MEM_CLK3
+Added Member To Class: ClassName=SDRAM Member=Wire MEM_CLK4
+Added Member To Class: ClassName=SDRAM Member=Wire MEM_CLK5
+Added Member To Class: ClassName=SDRAM Member=Wire MEM_CLK_N
+Added Member To Class: ClassName=SDRAM Member=Wire MEM_CLK_P
+Added Member To Class: ClassName=SDRAM Member=Wire NetC130_1

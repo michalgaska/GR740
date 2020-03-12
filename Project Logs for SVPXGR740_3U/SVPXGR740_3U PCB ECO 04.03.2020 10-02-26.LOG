@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=PG_P3V3 New Net Name=PGP3V3
+Added Pin To Net: NetName=PG_P3V3 Pin=C183-2
+Added Pin To Net: NetName=PG_P3V3 Pin=C199-2
+Added Pin To Net: NetName=PG_P3V3 Pin=D18-1
+Added Pin To Net: NetName=PG_P3V3 Pin=IC31-57
+Added Pin To Net: NetName=PG_P3V3 Pin=R243-2
+Added Pin To Net: NetName=PG_P3V3 Pin=R244-2
+Added Pin To Net: NetName=PG_P3V3 Pin=U9-21
+Added Pin To Net: NetName=PG_P3V3 Pin=U10-21
+Added Net: Name=PG_P3V3

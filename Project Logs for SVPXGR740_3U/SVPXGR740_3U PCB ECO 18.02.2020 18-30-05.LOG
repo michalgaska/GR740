@@ -1,0 +1,152 @@
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=C172
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=C173
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=C199
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=C201
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=C202
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=C203
+Removed Member From Class: ClassName=U_Management Member=C232
+Removed Member From Class: ClassName=U_Management Member=C233
+Removed Member From Class: ClassName=U_Management Member=C234
+Removed Member From Class: ClassName=U_Management Member=C253
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=D5
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=IC3
+Removed Member From Class: ClassName=U_Management Member=IC10
+Removed Member From Class: ClassName=U_Management Member=IC11
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=J3
+Removed Member From Class: ClassName=U_Management Member=R95
+Removed Member From Class: ClassName=U_Management Member=R96
+Removed Member From Class: ClassName=U_Management Member=R130
+Removed Member From Class: ClassName=U_Management Member=R131
+Removed Member From Class: ClassName=U_Management Member=R132
+Removed Member From Class: ClassName=U_Management Member=R133
+Removed Member From Class: ClassName=U_Management Member=R134
+Removed Member From Class: ClassName=U_Management Member=R135
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R136
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R137
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R138
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R139
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R140
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R141
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R142
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R143
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R144
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R145
+Removed Member From Class: ClassName=U_NIC_MSP430_power_jtag Member=R146
+Removed Member From Class: ClassName=U_Management Member=R160
+Removed Member From Class: ClassName=U_Management Member=R161
+Removed Member From Class: ClassName=U_Management Member=R197
+Removed Member From Class: ClassName=U_Management Member=R198
+Change Component Comment : Designator=J3 Old Comment=SHF-107-01-L-D-SM New Comment=62501021621
+Change Component Designator: OldDesignator=C172 NewDesignator=C261
+Change Component Designator: OldDesignator=C173 NewDesignator=C262
+Change Component Designator: OldDesignator=C199 NewDesignator=C263
+Change Component Designator: OldDesignator=C201 NewDesignator=C264
+Change Component Designator: OldDesignator=C202 NewDesignator=C265
+Change Component Designator: OldDesignator=C203 NewDesignator=C266
+Change Component Designator: OldDesignator=C232 NewDesignator=C248
+Change Component Designator: OldDesignator=C233 NewDesignator=C249
+Change Component Designator: OldDesignator=C234 NewDesignator=C244
+Change Component Designator: OldDesignator=C253 NewDesignator=C245
+Change Component Designator: OldDesignator=D5 NewDesignator=D10
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC17
+Change Component Designator: OldDesignator=IC10 NewDesignator=IC13
+Change Component Designator: OldDesignator=IC11 NewDesignator=IC15
+Change Component Designator: OldDesignator=IC32 NewDesignator=IC16
+Change Component Designator: OldDesignator=L14 NewDesignator=L11
+Change Component Designator: OldDesignator=R95 NewDesignator=R236
+Change Component Designator: OldDesignator=R96 NewDesignator=R241
+Change Component Designator: OldDesignator=R130 NewDesignator=R235
+Change Component Designator: OldDesignator=R131 NewDesignator=R242
+Change Component Designator: OldDesignator=R132 NewDesignator=R250
+Change Component Designator: OldDesignator=R133 NewDesignator=R251
+Change Component Designator: OldDesignator=R134 NewDesignator=R252
+Change Component Designator: OldDesignator=R135 NewDesignator=R253
+Change Component Designator: OldDesignator=R136 NewDesignator=R258
+Change Component Designator: OldDesignator=R137 NewDesignator=R259
+Change Component Designator: OldDesignator=R138 NewDesignator=R260
+Change Component Designator: OldDesignator=R139 NewDesignator=R261
+Change Component Designator: OldDesignator=R140 NewDesignator=R262
+Change Component Designator: OldDesignator=R141 NewDesignator=R263
+Change Component Designator: OldDesignator=R142 NewDesignator=R264
+Change Component Designator: OldDesignator=R143 NewDesignator=R265
+Change Component Designator: OldDesignator=R144 NewDesignator=R266
+Change Component Designator: OldDesignator=R145 NewDesignator=R267
+Change Component Designator: OldDesignator=R146 NewDesignator=R268
+Change Component Designator: OldDesignator=R160 NewDesignator=R254
+Change Component Designator: OldDesignator=R161 NewDesignator=R255
+Change Component Designator: OldDesignator=R197 NewDesignator=R256
+Change Component Designator: OldDesignator=R198 NewDesignator=R257
+Change component parameters: Designator = "J3"; Footprint = "62501021621"; UniqueID = "\YTNVEQDK\AXHYUXAH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6250xx21621.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20 mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to 125 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "62501021621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.00 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "August 2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500 VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250 VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=JTAG_REF Pin=J3-6
+Added Pin To Net: NetName=CPU_TRST Pin=J3-8
+Added Pin To Net: NetName=GND Pin=J3-10
+Change Net Name : Old Net Name=NetC173_1 New Net Name=NetC262_1
+Change Net Name : Old Net Name=NetC202_2 New Net Name=NetC265_2
+Added Pin To Net: NetName=NetC263_2 Pin=C263-2
+Added Pin To Net: NetName=NetC263_2 Pin=D10-2
+Added Pin To Net: NetName=NetC263_2 Pin=IC17-3
+Added Pin To Net: NetName=NetC263_2 Pin=R261-1
+Added Net: Name=NetC263_2
+Added Pin To Net: NetName=NetD15_1 Pin=R267-1
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetD15_2 Pin=R268-1
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetR257_1 Pin=R257-1
+Added Pin To Net: NetName=NetR257_1 Pin=T4-1
+Added Net: Name=NetR257_1
+Added Member To Class: ClassName=U_Management Member=Component C244 100nF
+Added Member To Class: ClassName=U_Management Member=Component C245 100nF
+Added Member To Class: ClassName=U_Management Member=Component C248 100nF
+Added Member To Class: ClassName=U_Management Member=Component C249 100nF
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component C261 1nF
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component C262 10uF
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component C263 10nF
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component C264 100nF
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component C265 10uF
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component C266 100nF
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component D10 BAT165
+Added Member To Class: ClassName=U_Management Member=Component IC13 TMP100NA/250
+Added Member To Class: ClassName=U_Management Member=Component IC15 TMP100NA/250
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component IC17 TPS3808G33DBVT
+Added Member To Class: ClassName=U_Management Member=Component R235 47k
+Added Member To Class: ClassName=U_Management Member=Component R236 10k
+Added Member To Class: ClassName=U_Management Member=Component R241 10k
+Added Member To Class: ClassName=U_Management Member=Component R242 47k
+Added Member To Class: ClassName=U_Management Member=Component R250 47k
+Added Member To Class: ClassName=U_Management Member=Component R251 47k
+Added Member To Class: ClassName=U_Management Member=Component R252 47k
+Added Member To Class: ClassName=U_Management Member=Component R253 47k
+Added Member To Class: ClassName=U_Management Member=Component R254 100k
+Added Member To Class: ClassName=U_Management Member=Component R255 100k
+Added Member To Class: ClassName=U_Management Member=Component R256 1k
+Added Member To Class: ClassName=U_Management Member=Component R257 10k
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R258 100
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R259 1k
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R260 100k
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R261 47k
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R262 0
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R263 100
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R264 100
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R265 100
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R266 100
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R267 0
+Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component R268 0

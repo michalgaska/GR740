@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PVIN Pin=P0-E1
+Added Pin To Net: NetName=PVIN Pin=P0-E2
+Added Pin To Net: NetName=PVIN Pin=P0-F1
+Added Pin To Net: NetName=PVIN Pin=P0-F2
+Added Pin To Net: NetName=PVIN Pin=P0-G1
+Added Pin To Net: NetName=PVIN Pin=P0-G2
+Added Pin To Net: NetName=PVIN Pin=R288-1
+Added Pin To Net: NetName=PVIN Pin=TP15-1
+Change Net Name : Old Net Name=PVIN New Net Name=Vs1

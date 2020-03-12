@@ -1,0 +1,3 @@
+Imeas=Imeas_P12V0,Imeas_P3V3MP,Imeas_P3V3,Imeas_P2V5,Imeas_P1V2
+PWR_STAT=PWR_OVLn,PG_P3V3,PG_P2V5,PG_P1V2
+Umeas=Umeas_P12V0,Umeas_P3V3MP,Umeas_P3V3,Umeas_P2V5,Umeas_P1V2

@@ -1,0 +1,201 @@
+Removed Pin From Net: NetName=GND Pin=B3-1
+Removed Pin From Net: NetName=GND Pin=B4-1
+Removed Pin From Net: NetName=shell_1 Pin=K1-MH1
+Removed Pin From Net: NetName=shell_1 Pin=K1-MH2
+Removed Pin From Net: NetName=shell_1 Pin=K2-MH1
+Removed Pin From Net: NetName=shell_1 Pin=K2-MH2
+Removed Member From Class: ClassName=Power Member=3P3V
+Removed Member From Class: ClassName=Power Member=12P0V
+Removed Member From Class: ClassName=HSDIFF Member=AUX_CLK_A_N
+Removed Member From Class: ClassName=HSDIFF Member=AUX_CLK_A_P
+Removed Member From Class: ClassName=HSDIFF Member=AUX_CLK_B_N
+Removed Member From Class: ClassName=HSDIFF Member=AUX_CLK_B_P
+Removed Member From Class: ClassName=Power Member=GND
+Removed Member From Class: ClassName=Power Member=NetC6_2
+Removed Member From Class: ClassName=Power Member=NetC8_2
+Removed Member From Class: ClassName=Power Member=NetC12_2
+Removed Member From Class: ClassName=Power Member=NetC19_2
+Removed Member From Class: ClassName=Power Member=NetC30_2
+Removed Member From Class: ClassName=Power Member=NetC49_1
+Removed Member From Class: ClassName=Power Member=NetC49_2
+Removed Member From Class: ClassName=Power Member=NetC50_1
+Removed Member From Class: ClassName=Power Member=NetC50_2
+Removed Member From Class: ClassName=Power Member=NetIC4_5
+Removed Member From Class: ClassName=Power Member=P1V2_buck
+Removed Member From Class: ClassName=Power Member=P1V2_CORE
+Removed Member From Class: ClassName=Power Member=P1V2_SERDES
+Removed Member From Class: ClassName=Power Member=P1V8_buck
+Removed Member From Class: ClassName=Power Member=P1V8
+Removed Member From Class: ClassName=Power Member=P2V5_Buck
+Removed Member From Class: ClassName=Power Member=P2V5_PLL
+Removed Member From Class: ClassName=Power Member=P2V5
+Removed Member From Class: ClassName=Power Member=P3V3_buck
+Removed Member From Class: ClassName=Power Member=P3V3_PLL
+Removed Member From Class: ClassName=Power Member=P3V3
+Removed Member From Class: ClassName=Power Member=P3V3MP
+Removed Member From Class: ClassName=Power Member=PLL_VDDA_MDDR_6
+Removed Member From Class: ClassName=Power Member=PLL_VDDA_NE0_6
+Removed Member From Class: ClassName=Power Member=PLL_VDDA_NE1_6
+Removed Member From Class: ClassName=Power Member=PLL_VDDA_NW0_6
+Removed Member From Class: ClassName=Power Member=PLL_VDDA_NW1_6
+Removed Member From Class: ClassName=Power Member=PLL_VDDA_SW0_6
+Removed Member From Class: ClassName=Power Member=PLL_VDDA_SW1_6
+Removed Member From Class: ClassName=Power Member=PLL_VSSA_MDDR_6
+Removed Member From Class: ClassName=Power Member=PLL_VSSA_NE0_6
+Removed Member From Class: ClassName=Power Member=PLL_VSSA_NE1_6
+Removed Member From Class: ClassName=Power Member=PLL_VSSA_NW0_6
+Removed Member From Class: ClassName=Power Member=PLL_VSSA_NW1_6
+Removed Member From Class: ClassName=Power Member=PLL_VSSA_SW0_6
+Removed Member From Class: ClassName=Power Member=PLL_VSSA_SW1_6
+Removed Member From Class: ClassName=HSDIFF Member=REF_CLK_A_N
+Removed Member From Class: ClassName=HSDIFF Member=REF_CLK_A_P
+Removed Member From Class: ClassName=Power Member=VADJ
+Added Component: Designator=C174(CAPC2012X135N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC1206_X5R_KEMET.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "C0805C106K4PAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805_10UF_16V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0805_10UF_16V_10%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=R152(RESC0603X28N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "19.11.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0201_VISHAY_CRCW e3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08.01.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "CRCW02010000Z0ED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0201_0R_JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "1A (0.05R Max DC Resistance) Zero Ohm Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0201_0R_JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R153(RESC0603X28N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "19.11.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0201_VISHAY_CRCW e3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08.01.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "CRCW02010000Z0ED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0201_0R_JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "1A (0.05R Max DC Resistance) Zero Ohm Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0201_0R_JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=TP15(TPS127)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard (No BOM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12.01.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Undefined"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "12.01.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "1.27mm x 1.27mm PCB Copper Area (SMD Test Point)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "1.27mm x 1.27mm PCB Copper Area (SMD Test Point)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD_PAD_1.27X1.27MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=TP26(TPS127)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard (No BOM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12.01.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Undefined"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "12.01.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "1.27mm x 1.27mm PCB Copper Area (SMD Test Point)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "1.27mm x 1.27mm PCB Copper Area (SMD Test Point)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD_PAD_1.27X1.27MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C174-1
+Added Pin To Net: NetName=3.3V_AUX Pin=C174-2
+Added Pin To Net: NetName=UD_I2C_SDA_13 Pin=R152-1
+Added Pin To Net: NetName=UD_I2C.SDA Pin=R152-2
+Added Pin To Net: NetName=UD_I2C_SCL_13 Pin=R153-1
+Added Pin To Net: NetName=UD_I2C.SCL Pin=R153-2
+Added Pin To Net: NetName=Vs1 Pin=TP15-1
+Added Pin To Net: NetName=SYSRESET* Pin=TP26-1
+Change Net Name : Old Net Name=AUX_CLK_A_N New Net Name=AUX_CLK_N
+Change Net Name : Old Net Name=AUX_CLK_A_P New Net Name=AUX_CLK_P
+Change Net Name : Old Net Name=AUX_CLK_B_N New Net Name=REF_CLK1_N
+Change Net Name : Old Net Name=AUX_CLK_B_P New Net Name=REF_CLK1_P
+Change Net Name : Old Net Name=GA0 New Net Name=GA0*
+Change Net Name : Old Net Name=GA1 New Net Name=GA1*
+Change Net Name : Old Net Name=GA2 New Net Name=GA2*
+Change Net Name : Old Net Name=GA3 New Net Name=GA3*
+Change Net Name : Old Net Name=GA4 New Net Name=GA4*
+Change Net Name : Old Net Name=GAP New Net Name=GAP*
+Change Net Name : Old Net Name=REF_CLK_A_N New Net Name=REF_CLK_N
+Change Net Name : Old Net Name=REF_CLK_A_P New Net Name=REF_CLK_P
+Change Net Name : Old Net Name=SYS_CON New Net Name=SYS_CON*
+Change Net Name : Old Net Name=SYS_CON_P New Net Name=SYS_CONP*
+Change Class Name : Old Net Name=SVPXFMC_Carrier_3U New Net Name=SVPXGR740_3U
+Added Differential Pair: Name=AUX_CLK
+Added Differential Pair: Name=REF_CLK1
+Added Differential Pair: Name=REF_CLK
+Added Member To Class: ClassName=U_SLT3-PAY-1Q2T_P0 Member=Component C174 10uF
+Added Member To Class: ClassName=U_SLT3-PAY-1Q2T_P1 Member=Component R152 0
+Added Member To Class: ClassName=U_SLT3-PAY-1Q2T_P1 Member=Component R153 0
+Added Member To Class: ClassName=U_SLT3-PAY-1Q2T_P0 Member=Component TP15 Test Point
+Added Member To Class: ClassName=U_SLT3-PAY-1Q2T_P0 Member=Component TP26 Test Point
+Added Member To Class: ClassName=HSDIFF Member=Wire AUX_CLK_N
+Added Member To Class: ClassName=HSDIFF Member=Wire AUX_CLK_P
+Added Member To Class: ClassName=HSDIFF Member=Wire REF_CLK1_N
+Added Member To Class: ClassName=HSDIFF Member=Wire REF_CLK1_P
+Added Member To Class: ClassName=HSDIFF Member=Wire REF_CLK_N
+Added Member To Class: ClassName=HSDIFF Member=Wire REF_CLK_P
+Change Room Name: Old Name=U_FPGA SDRAM bank New Name=U_SLT3-PAY-1Q2T_P1
+Change Room Scope: Old Scope=InComponentClass('U_FPGA SDRAM bank') New Scope=InComponentClass('U_SLT3-PAY-1Q2T_P1')
+Added Room: Name=SVPXGR740_3U
+Added Room: Name=U_SLT3-PAY-1Q2T_P0
+Added Room: Name=U_SLT3-PAY-1Q2T_P2

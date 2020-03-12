@@ -1,0 +1,26 @@
+Added Component: Designator=L10(INDC1005X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "19.02.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\IND0402_MURATA_BLM15PX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "25.10.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM15PX121SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD EMIFIL Chip Ferrite Bead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IND0402_MURATA_BLM15PX121SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.055R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R@100MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P1V2 Pin=L10-1
+Added Pin To Net: NetName=P1V2_PLL Pin=L10-2
+Added Member To Class: ClassName=U_GR740_Power Member=Component L10 120R@100MHz

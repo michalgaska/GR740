@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=U_PWR_3V3 Member=IC18
+Added Pin To Net: NetName=GND Pin=IC18-1
+Added Pin To Net: NetName=NetIC18_2 Pin=IC18-2
+Added Pin To Net: NetName=P3V3MP Pin=IC18-5
+Added Member To Class: ClassName=U_Power Member=Component IC18 MAX4372FEUK
+Added Member To Class: ClassName=U_PWR_3V3 Member=Component IC19 MAX4372FEUK

@@ -1,0 +1,2 @@
+OBC_SEL=UD_OBC_SEL0,UD_OBC_SEL1,UD_OBC_SEL2
+SpW=Sout_P,Sout_N,Dout_P,Dout_N,Sin_P,Sin_N,Din_P,Din_N

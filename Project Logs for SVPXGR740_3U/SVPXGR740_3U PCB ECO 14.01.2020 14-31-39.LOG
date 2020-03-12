@@ -1,0 +1,7 @@
+Added Component: Designator=U1(BGA625C100P25X25_2900X2900X494)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMD"; VariantName = "[No Variations]"
+Added Class: Name=U_GR740
+Change Room Name: Old Name=U_FRAM_memory New Name=U_GR740
+Change Room Scope: Old Scope=InComponentClass('U_FRAM_memory') New Scope=InComponentClass('U_GR740')

@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp08-DA_N
+Added Member To Class: ClassName=SpW_08_in Member=Wire CPtp08-DA_N
+Added Member To Class: ClassName=SpW Member=Wire CPtp08-DA_N
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp08-DA_P
+Added Member To Class: ClassName=SpW_08_in Member=Wire CPtp08-DA_P
+Added Member To Class: ClassName=SpW Member=Wire CPtp08-DA_P
+Added Member To Class: ClassName=HSDIFF Member=Wire CPtp08-DD_N
+Added Member To Class: ClassName=SpW_08_out Member=Wire CPtp08-DD_N
+Added Member To Class: ClassName=SpW Member=Wire CPtp08-DD_N
