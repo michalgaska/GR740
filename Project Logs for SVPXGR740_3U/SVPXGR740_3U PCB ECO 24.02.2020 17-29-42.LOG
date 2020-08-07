@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=CPtp08-DD_P Pin=J14-48
-Removed Pin From Net: NetName=CPtp08-DD_N Pin=J14-50
-Removed Pin From Net: NetName=CPtp08-DA_P Pin=J14-54
-Removed Pin From Net: NetName=CPtp08-DA_N Pin=J14-56
-Added Pin To Net: NetName=CPtp08-DA_P Pin=J14-48
-Added Pin To Net: NetName=CPtp08-DA_N Pin=J14-50
-Added Pin To Net: NetName=CPtp08-DD_P Pin=J14-54
-Added Pin To Net: NetName=CPtp08-DD_N Pin=J14-56

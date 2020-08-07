@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=JTAG_TDO/TDI_17 Pin=D11-1
-Added Pin To Net: NetName=JTAG_TDI_17 Pin=D11-2
-Added Pin To Net: NetName=GND Pin=D11-3
-Added Pin To Net: NetName=SM1 Pin=D21-1
-Added Pin To Net: NetName=SM0 Pin=D21-2
-Added Pin To Net: NetName=GND Pin=D21-3
-Added Member To Class: ClassName=U_NIC_MSP430_power_jtag Member=Component D11 TVS diode
-Added Member To Class: ClassName=U_SLT3-PAY-1Q2T_P0 Member=Component D21 TVS diode

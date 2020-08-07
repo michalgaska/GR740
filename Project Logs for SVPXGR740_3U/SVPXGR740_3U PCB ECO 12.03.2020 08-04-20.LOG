@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=REF_CLK_N Pin=OSC1-5
-Added Pin To Net: NetName=REF_CLK_N Pin=P0-F8
-Added Net: Name=REF_CLK_N
-Added Pin To Net: NetName=REF_CLK_P Pin=OSC1-4
-Added Pin To Net: NetName=REF_CLK_P Pin=P0-E8
-Added Net: Name=REF_CLK_P
-Added Differential Pair: Name=REF_CLK
-Added Member To Class: ClassName=HSDIFF Member=Wire REF_CLK_N
-Added Member To Class: ClassName=HSDIFF Member=Wire REF_CLK_P

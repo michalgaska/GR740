@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=GND Pin=J3-2
-Added Pin To Net: NetName=JTAG_REF Pin=J3-6
-Added Pin To Net: NetName=CPU_TRST Pin=J3-8
-Added Pin To Net: NetName=GND Pin=J3-10
-Added Pin To Net: NetName=NetC255_2 Pin=L9-1
-Added Pin To Net: NetName=P3V3_buck Pin=L9-2
-Added Member To Class: ClassName=U_USB_JTAG Member=Component J3 62501021621
-Added Member To Class: ClassName=U_PWR_3V3 Member=Component L9 3.6 A, 3.3 uH
