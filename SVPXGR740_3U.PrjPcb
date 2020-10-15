@@ -836,7 +836,7 @@ UniqueID=D314A751-3409-4ACA-ADBF-DA31131F99FA
 Description=PCI
 AllowFabrication=0
 ParameterCount=0
-VariationCount=77
+VariationCount=80
 Variation1=Designator=R40|UniqueId=\URLXRHWU\ERIBKRQF\UUSRMOAJ|Kind=1|AlternatePart= 
 Variation2=Designator=R169|UniqueId=\URLXRHWU\JOSRTLZL\MWUPXPRN|Kind=1|AlternatePart= 
 Variation3=Designator=R170|UniqueId=\URLXRHWU\JOSRTLZL\CTUUYXFJ|Kind=1|AlternatePart= 
@@ -914,6 +914,9 @@ Variation74=Designator=R142|UniqueId=\URLXRHWU\JOSRTLZL\CYERAOQK|Kind=1|Alternat
 Variation75=Designator=R144|UniqueId=\URLXRHWU\JOSRTLZL\SCGAADPP|Kind=1|AlternatePart= 
 Variation76=Designator=R146|UniqueId=\URLXRHWU\JOSRTLZL\OPEJDNDI|Kind=1|AlternatePart= 
 Variation77=Designator=R148|UniqueId=\URLXRHWU\JOSRTLZL\NLUULNVM|Kind=1|AlternatePart= 
+Variation78=Designator=U5|UniqueId=\URLXRHWU\BKJMXBJU\GLVEJUBI|Kind=1|AlternatePart= 
+Variation79=Designator=U6|UniqueId=\URLXRHWU\BKJMXBJU\TNKQIFWN|Kind=1|AlternatePart= 
+Variation80=Designator=U8|UniqueId=\URLXRHWU\BKJMXBJU\QIMTGYLN|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
